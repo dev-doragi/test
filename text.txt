@@ -13,4 +13,4 @@ My name is CHOI JAE IN!
 
 Slack으로 git hub 계정 연동하기 실습. 
 
-안녕하세요.
+안녕하세요. 최재인 입니다. 
